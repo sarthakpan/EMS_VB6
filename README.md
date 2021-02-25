@@ -5,11 +5,11 @@ Employee Management System with Visual Basic 6 and MS Access
 - Login Password: password
 
 ## Features:
-Login Form
-Add, Delete, Update Employee Details
-Pay Salary Form
-Report Salary Month wise
-Report Salary Employee name wise
+- Login Form
+- Add, Delete, Update Employee Details
+- Pay Salary Form
+- Report Salary Month wise
+- Report Salary Employee name wise
 
 
 ## Usage
